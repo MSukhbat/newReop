@@ -1,0 +1,66 @@
+h1 {
+  position: absolute;
+  width: 298px;
+  height: 48px;
+  left: 778px;
+  top: 48px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 100%;
+  color: #9499c3;
+  text-align: center;
+}
+.main-container {
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0.308) 0%,
+      rgba(0, 0, 0, 0) 100%
+    ),
+    url(.png);
+  height: 100vh;
+  width: 100vw;
+  margin-block: 0px;
+}
+.sub-div {
+  height: 25px;
+  left: 36px;
+  top: 5px;
+  font-size: 25px;
+  line-height: 100%;
+}
+.sub-lol {
+  position: absolute;
+  width: 627px;
+  height: 172px;
+  left: 580px;
+  top: 482px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 35px;
+  line-height: 100%;
+  text-align: center;
+  color: #ffffff;
+}
+.sub-div {
+  position: absolute;
+  margin-top: 101px;
+  margin-left: 92px;
+  margin-right: 1337px;
+  margin-bottom: 825;
+  height: 14px;
+  left: 36px;
+  top: 5px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 100%;
+
+  text-transform: uppercase;
+
+  color: #9499c3;
+}
